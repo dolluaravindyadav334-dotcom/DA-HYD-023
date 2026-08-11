@@ -1,4 +1,4 @@
-
+   
 #sequence --> strings,lists,sets,tuples,mapping(dict)
 
 #strings -->group of characters,we use single or double or triple quotes
